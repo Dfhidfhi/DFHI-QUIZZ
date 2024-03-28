@@ -60,12 +60,7 @@ export default defineConfig({
     use: { ...devices['Desktop Firefox'] },
 
   },
-  { 
-    name: 'safari',
-    use: {
-      ...devices['Desktop Safari']
-    }
-  },
+ 
 
     /* Test against mobile viewports. */
     // {
