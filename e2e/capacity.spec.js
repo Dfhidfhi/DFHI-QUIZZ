@@ -1,6 +1,6 @@
 import { chromium, test } from '@playwright/test';
 
-test('test', async ({ page }) => {
+test('test', async ({ }) => {
     const browser = await chromium.launch();
     const contexts = [];
     const pages = [];

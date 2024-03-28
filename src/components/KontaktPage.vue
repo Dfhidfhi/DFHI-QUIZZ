@@ -77,7 +77,7 @@ const handleSubmit = () => {
 }
 
 const isValidEmail = (email) => {
-    const RegexEmail = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/
+    const RegexEmail = /^\w+([-]?\w+)*@\w+([-]?\w+)*(\.\w{2,3})+$/
     return RegexEmail.test(email);
 
 }
