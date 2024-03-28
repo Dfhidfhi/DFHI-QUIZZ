@@ -1,0 +1,434 @@
+
+    [
+        {
+            "lectureId": 1,
+            "lectureImage": "https://www.teltarif.de/img/betriebssysteme/tag_betriebssysteme-1og.jpg",
+            "lectureName": "Betriebssystem",
+            "lectureQuestions": [
+                { 
+                    "id": 1,
+                    "text": "...... eine Instanz eines Programms in Ausführung.",
+                    "choices": [ 
+                        {
+                            "id": 1,
+                            "label": "A",
+                            "text": "Ein Prozess ist ",
+                            "isCorrect": true
+                        },
+                        {
+                            "id": 2,
+                            "label": "B",
+                            "text": "die Ressource ist",
+                            "isCorrect": false,
+                            "isActive": false
+                        },
+                      
+                        {
+                            "id": 3,
+                            "label": "C",
+                            "text": "ein Computer ist",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 4,
+                            "label": "D",
+                            "text": "der Prozessor ",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "text": "Prozesse können einen von drei Zuständen haben: ............",
+                    "choices": [
+                        {
+                            "id": 1,
+                            "label": "A",
+                            "text": "ausgeführt, bereit oder abgeschlossen",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 2,
+                            "label": "B",
+                            "text": "ausstehend, bereit oder wartend",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 3,
+                            "label": "C",
+                            "text": "ausgeführt, bereit oder wartend",
+                            "isCorrect": true,
+                            "isActive": true
+                        },
+                        {
+                            "id": 4,
+                            "label": "D",
+                            "text": "ausgeführt, unbereit oder wartend",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                
+                {
+                    "id": 3,
+                    "text": "Ein Kernel ist die zentrale Komponente ............., die den Betrieb von Computern und Hardware verwaltet.",
+                    "choices": [
+                        {
+                            "id": 1,
+                            "label": "A",
+                            "text": "einer Betriebsprüfung",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 2,
+                            "label": "B",
+                            "text": "eines Unternehmens",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 3,
+                            "label": "C",
+                            "text": "eines Betriebssystems",
+                            "isCorrect": true,
+                            "isActive": true
+                        },
+                        {
+                            "id": 4,
+                            "label": "D",
+                            "text": "eines Speichers",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "lectureId": 2,
+            "lectureImage": "https://blogs.biomedcentral.com/on-biology/wp-content/uploads/sites/5/2017/12/DNA.png",
+            "lectureName": "Java",
+            "lectureQuestions": [
+                { 
+                    "id": 1,
+                    "text": "Java Virtual Machine is a ......... that enables the computer to run the Java program.",
+                    "choices": [ 
+                        {
+                            "id": 1,
+                            "label": "A",
+                            "text": "virtuale Machine",
+                            "isCorrect": true
+                        },
+                        {
+                            "id": 2,
+                            "label": "B",
+                            "text": "physikalische Machine",
+                            "isCorrect": false,
+                            "isActive": false
+                        },
+                      
+                        {
+                            "id": 3,
+                            "label": "C",
+                            "text": "Java Runtime Environment",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 4,
+                            "label": "D",
+                            "text": "Java Development Kit",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "text": "Java wurde ......... entwickelt.",
+                    "choices": [
+                        {
+                            "id": 1,
+                            "label": "A",
+                            "text": "im Jahr 1995 von Brendan Eich",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 2,
+                            "label": "B",
+                            "text": "im Februar 1991 von Guido van Rossum",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 3,
+                            "label": "C",
+                            "text": "im Juni 1991 von James Gosling",
+                            "isCorrect": true,
+                            "isActive": true
+                        },
+                        {
+                            "id": 4,
+                            "label": "D",
+                            "text": "im Jahr 2014 von Evan You",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "text": "JVM ist ein Akronym für ..............; .",
+                    "choices": [
+                        {
+                            "id": 1,
+                            "label": "A",
+                            "text": "Javascript Virtual Machine",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 2,
+                            "label": "B",
+                            "text": "Java für Virtual Machine",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 3,
+                            "label": "C",
+                            "text": "Java Virtual Machine",
+                            "isCorrect": true,
+                            "isActive": true
+                        },
+                        {
+                            "id": 4,
+                            "label": "D",
+                            "text": "Jura Virtual Machine",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "lectureId": 4,
+            "lectureImage": "http://jobs.newscientist.com/getasset/c40a5488-11be-43b0-843f-a2e6ef9f0612/",
+            "lectureName": "Netzwerk",
+            "lectureQuestions": [
+                { 
+                    "id": 1,
+                    "text": " Ein Netzwerk ist definiert als ........... , die über ein physisches Übertragungsmedium miteinander verbunden sind.",
+                    "choices": [ 
+                        {
+                            "id": 1,
+                            "label": "A",
+                            "text": "eine Verbindung ",
+                            "isCorrect": true
+                        },
+                        {
+                            "id": 2,
+                            "label": "B",
+                            "text": "Reihe von Geräten",
+                            "isCorrect": false,
+                            "isActive": false
+                        },
+                      
+                        {
+                            "id": 3,
+                            "label": "C",
+                            "text": "ein Glasfaser",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 4,
+                            "label": "D",
+                            "text": "ein Gerät",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "text": " ........... direkt über eine Glasfaser oder ein anderes Kabel verbunden. Ein Knoten ist ein Punkt, an dem eine Verbindung hergestellt wird ",
+                    "choices": [
+                        {
+                            "id": 1,
+                            "label": "A",
+                            "text": "ein Computer ist",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 2,
+                            "label": "B",
+                            "text": "Zwei oder mehr Computer sind",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 3,
+                            "label": "C",
+                            "text": "Netzwerktopologie ist",
+                            "isCorrect": true,
+                            "isActive": true
+                        },
+                        {
+                            "id": 4,
+                            "label": "D",
+                            "text": "Netzwerk",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "text": " Der Router .........., das zwei oder mehr Netzwerksegmente verbindet. Es wird verwendet, um Informationen von der Quelle zum Ziel zu übertragen.  ",
+                    "choices": [
+                        {
+                            "id": 1,
+                            "label": "A",
+                            "text": "ist ein Computer von Marke Lenovo ",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 2,
+                            "label": "B",
+                            "text": "Zwei oder mehr Computer sind",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 3,
+                            "label": "C",
+                            "text": "ist ein Netzwerkgerät",
+                            "isCorrect": true,
+                            "isActive": true
+                        },
+                        {
+                            "id": 4,
+                            "label": "D",
+                            "text": "Netzwerk",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+
+
+
+
+        {
+            "lectureId": 4,
+            "lectureImage": "http://jobs.newscientist.com/getasset/c40a5488-11be-43b0-843f-a2e6ef9f0612/",
+            "lectureName": "Javascript",
+            "lectureQuestions": [
+                { 
+                    "id": 1,
+                    "text": "...... eine Instanz eines Programms in Ausführung.",
+                    "choices": [ 
+                        {
+                            "id": 1,
+                            "label": "A",
+                            "text": "Ein Prozess ist ",
+                            "isCorrect": true
+                        },
+                        {
+                            "id": 2,
+                            "label": "B",
+                            "text": "die Ressource ist",
+                            "isCorrect": false,
+                            "isActive": false
+                        },
+                      
+                        {
+                            "id": 3,
+                            "label": "C",
+                            "text": "ein Computer ist",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 4,
+                            "label": "D",
+                            "text": "der Prozessor ",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+    
+        
+        {
+            "lectureId": 5,
+            "lectureImage": "http://jobs.newscientist.com/getasset/c40a5488-11be-43b0-843f-a2e6ef9f0612/",
+            "lectureName": "php",
+            "lectureQuestions": [
+                { 
+                    "id": 1,
+                    "text": "...... eine Instanz eines Programms in Ausführung.",
+                    "choices": [ 
+                        {
+                            "id": 1,
+                            "label": "A",
+                            "text": "Ein Prozess ist ",
+                            "isCorrect": true
+                        },
+                        {
+                            "id": 2,
+                            "label": "B",
+                            "text": "die Ressource ist",
+                            "isCorrect": false,
+                            "isActive": false
+                        },
+                      
+                        {
+                            "id": 3,
+                            "label": "C",
+                            "text": "ein Computer ist",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 4,
+                            "label": "D",
+                            "text": "der Prozessor ",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "lectureId": 6,
+            "lectureImage": "http://jobs.newscientist.com/getasset/c40a5488-11be-43b0-843f-a2e6ef9f0612/",
+            "lectureName": "English",
+            "lectureQuestions": [
+                { 
+                    "id": 1,
+                    "text": "...... eine Instanz eines Programms in Ausführung.",
+                    "choices": [ 
+                        {
+                            "id": 1,
+                            "label": "A",
+                            "text": "Ein Prozess ist ",
+                            "isCorrect": true
+                        },
+                        {
+                            "id": 2,
+                            "label": "B",
+                            "text": "die Ressource ist",
+                            "isCorrect": false,
+                            "isActive": false
+                        },
+                      
+                        {
+                            "id": 3,
+                            "label": "C",
+                            "text": "ein Computer ist",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 4,
+                            "label": "D",
+                            "text": "der Prozessor ",
+                            "isCorrect": false
+                        }
+                    ]
+                } ]
+        }
+    
+    
+    ]
+
+
+
